@@ -1,0 +1,16 @@
+body {
+  background-color: aqua;
+}
+
+.container1 {
+  text-align: center;
+}
+
+.container .buttons {
+  display: flex;
+  justify-content: center;
+}
+
+.container .result {
+  text-align: center;
+}
